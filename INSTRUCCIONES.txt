@@ -3,3 +3,5 @@ npm i express
 npm i demas dependencias
 
 correr nodemon
+
+LAS CLASES ESTARAN EN LA NUBE, FALTA NODE MODULES
